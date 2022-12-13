@@ -37,7 +37,7 @@ We will make a poster with all of our progress documented. We will have a system
 
 We have collected the data of the humidity and temprature from the sensors and write it into the csv file that we have created. And from that file we made a program that reads each line from the csv file and sends those data to the server in the json format using while loop.
 
-![weather.png](weather_station.png)
+![CSV.png](csv_file1.png)
 
 **Fig.3** Above is the csv file that we used to store the data.
 
