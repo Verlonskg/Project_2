@@ -5,7 +5,7 @@
 
 # Criteria A: Planning
 
-## Problem definition
+## Problem Definition
 The client Mr. Figueroa is a student at UWC ISAK and he is a professional violinist. Therefore he is very concerned about the effect of the humidity and temperature in ISAK on his precious violin. He is looking for a way to find the humidity in his room with the most accurate yet affordable setup so that he can sleep well without worrying about the violin cracked when he wake up. He does not aim to look for a cheap alternative, he wants a proper sensor that could tell him the accurate temperature and humidity. He is also is willing to use python for easier control and he also hopes that Raspberry Pi could help him with the whole project since Raspberry Pies are very good.
 
 ## Proposed Solution
@@ -44,7 +44,13 @@ We have collected the data of the humidity and temprature from the sensors and w
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Write the Problem context          |              | 0h 20min | Nov 22 | A |
+| 1       | Write the Problem context          | We identified what kind of problem the client could have and how that is affecting his daily routine             | 10min | Nov 22 | A
+| 2       | Write the Problem Defenition | We wrote the problem defenition to have a clear understanding of what the client needs | 20min | Nov 22 | A
+| 3       | Create a bill of materials | We identified all the materials we need for the project and made a list | 20 min | Nov 22 | A
+| 4       | Understand how Raspberry Pi work | We reaserched about raspberry pi to have a deeper understanding of how the servers and SSH works | 40 min | Nov 24 | A
+| 5       | Reaserch how DHT11 sensor work | We got a basic understanding of how the bread board and DHT11 sensor works, we also learnt how to connect them together | 30 min | Nov 24 | A
+| 6       | Signing Scope of Work | We got all the materials from Dr. Ruben that we listed up, and signed the Scope of work document | 5 min | Nov 25 | A
+| 7       | 
 
 ## Test Plan
 
