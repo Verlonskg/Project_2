@@ -1,7 +1,6 @@
 # Unit 2: A Distributed Weather Station for ISAK
 
 ![weather.png](weather_station.png)
-
 **Fig.1**
 
 # Criteria A: Planning
@@ -40,7 +39,7 @@ We have collected the data of the humidity and temprature from the sensors and w
 
 ![weather.png](weather_station.png)
 
-**Fig.3** Above is the data the csv file that we used to store the data.
+**Fig.3** Above is the csv file that we used to store the data.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
