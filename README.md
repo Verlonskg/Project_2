@@ -48,9 +48,9 @@ We have collected the data of the humidity and temprature from the sensors and w
 | 2       | Write the Problem Defenition  | We wrote the problem defenition to have a clear understanding of what the client needs | 20min | Nov 22 | A
 | 3       | Create a bill of materials  | We identified all the materials we need for the project and made a list | 20 min | Nov 22 | A
 | 4       | Understand how Raspberry Pi work  | We reaserched about raspberry pi to have a deeper understanding of how the servers and SSH works | 40 min | Nov 24 | A
-| 5       | Reaserch how DHT11 sensor work  | We got a basic understanding of how the bread board and DHT11 sensor works, we also learnt how to connect them together | 30 min | Nov 24 | A
+| 5       | Reaserch how DHT11 sensor work  | We got a basic understanding of how the breadboard and DHT11 sensor works, we also learnt how to connect them together | 30 min | Nov 24 | A
 | 6       | Signing Scope of Work  | We got all the materials from Dr. Ruben that we listed up, and signed the Scope of work document | 5 min | Nov 25 | A
-| 7       | We got all the materials from Dr. Ruben that we listed up, and signed the Scope of work document |
+| 7       | Create a circuit that connects from Raspberry Pi to breadbord | We made a circuit to test run and check if the whole thing works by transmitting power, it tool multiple tries to get it right | 40 min | Nov 27 | B
 
 ## Test Plan
 
