@@ -4,18 +4,18 @@
 
 ## Criteria A: Planning
 
-## Problem definition
+### Problem definition
 The client Mr. Figueroa is a student at UWC ISAK and he is a professional violinist. Therefore he is very concerned about the effect of the humidity and temperature in ISAK on his precious violin. He is looking for a way to find the humidity in his room with the most accurate yet affordable setup so that he can sleep well without worrying about the violin cracked when he wake up. He does not aim to look for a cheap alternative, he wants a proper sensor that could tell him the accurate temperature and humidity. He is also is willing to use python for easier control and he also hopes that Raspberry Pi could help him with the whole project since Raspberry Pies are very good.
 
-## Proposed Solution
+### Proposed Solution
 Considering the client requirements an adequate solution includes a low cost sensing device for humidity and temperature and a custom data script that process and anaysis the samples acquired. For a low cost sensing device an adequate alternative is the DHT11 sensor[^1] which is offered online for less than 5 USD and provides adequare precision and range for the client requirements (Temperature Range: 0°C to 50°C, Humidity Range: 20% to 90%). Similar devices such as the DHT22, AHT20 or the AM2301B [^2] have higher specifications, however the DHT11 uses a simple serial communication (SPI) rather than more eleborated protocols such as the I2C used by the alternatives. For the range, precision and accuracy required in this applicaiton the DHT11 provides the best compromise. Connecting the DHT11 sensor to a computer requires a device that provides a Serial Port communication. A cheap and often used alternative for prototyping is the Arduino UNO microcontroller [^3]. "Arduino is an open-source electronics platform based on easy-to-use hardware and software"[^4]. In additon to the low cost of the Arduino (< 6USD), this devide is programable and expandable[^1]. Other alternatives include diffeerent versions of the original Arduino but their size and price make them a less adequate solution.
 
 Considering the budgetary constrains of the client and the hardware requirements, the software tool that I proposed for this solution is Python. Python is open source, it is mature and supported in mutiple platforms (platform-independent) including macOS, Windows, Linux and can also be used to program the Arduino microprocessor [^5][^6]. In comparison to the alternative C or C++, which share similar features, Python is a High level programming language (HLL) with high abstraction [^7]. For example, memory management is automatic in Python whereas it is responsability of the C/C++ developer to allocate and free up memory [^7], this could result in faster applications but also memory problems. In addition a HLL language will allow me and future developers extend the solution or solve issues proptly.  
 
-## Design statement
+### Design statement
 We will make a poster with all of our progress documented. We will have a system diagram, the materials we used, the set up. And the process of actually programming and running it.  graphs that show the temperature and humidity in mean, standad deviation, minimum, maximum, and median so that the client will understand what the humidity and the temperature in his room is in one glance. We will also add a graph that shows a prediction of the subsequent 12 hours for both temperature and humidity. As a conclusion we will talk about the health effects that this data represents and the effect to the violin as well.
 
-## Success Criteria
+### Success Criteria
 
 1. The solution provides a visual representation of the Humidity and Temperature values inside a dormitory (Local) and outside the house (Remote) for a period of minimum 48 hours. 
 1. ```[HL]``` The local variables will be measure using a set of 4 sensors around the dormitory.
