@@ -1,6 +1,6 @@
 # Unit 2: A Distributed Weather Station for ISAK
 
-![weather.png](project_2.png)
+![weather.png](weather_station.png)
 
 ## Criteria A: Planning
 
