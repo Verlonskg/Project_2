@@ -2,6 +2,8 @@
 
 ![weather.png](weather_station.png)
 
+**Fig.1**
+
 # Criteria A: Planning
 
 ## Problem definition
@@ -36,10 +38,14 @@ We will make a poster with all of our progress documented. We will have a system
 
 We have collected the data of the humidity and temprature from the sensors and write it into the csv file that we have created. And from that file we made a program that reads each line from the csv file and sends those data to the server in the json format using while loop.
 
+![weather.png](weather_station.png)
+
+**Fig.3** Above is the data the csv file that we used to store the data.
+
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Write the Problem context          |              | 10min         | Nov 22                 | A         |
+| 1       | Write the Problem context          |              | 0h 20min | Nov 22 | A |
 
 ## Test Plan
 
