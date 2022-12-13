@@ -39,7 +39,7 @@ We have collected the data of the humidity and temprature from the sensors and w
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Write the Problem context                        | 10min         | Nov 22                 | A         |
+| 1       | Write the Problem context          |              | 10min         | Nov 22                 | A         |
 
 ## Test Plan
 
