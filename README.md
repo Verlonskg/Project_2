@@ -42,7 +42,7 @@ We have collected the data of the humidity and temprature from the sensors and w
 **Fig.3** Above is the csv file that we used to store the data.
 
 ## Record of Tasks
-| Task No |  Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
+| Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
 | 1       | Write the Problem context          | We identified what kind of problem the client could have and how that is affecting his daily routine             | 10min | Nov 22 | A
 | 2       | Write the Problem Defenition  | We wrote the problem defenition to have a clear understanding of what the client needs | 20min | Nov 22 | A
