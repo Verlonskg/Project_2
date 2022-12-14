@@ -61,10 +61,16 @@ We have collected the data of the humidity and temprature from the sensors and w
 
 ## Development
 
+## Poster
+
+![](poster.png)
 
 # Criteria D: Functionality
 
 A 7 min video demonstrating the proposed solution with narration
+
+
+**Above is the link to our presentation video**
 
 [^1]: Industries, Adafruit. “DHT11 Basic Temperature-Humidity Sensor + Extras.” Adafruit Industries Blog RSS, https://www.adafruit.com/product/386. 
 [^2]: Nelson, Carter. “Modern Replacements for DHT11 and dht22 Sensors.” Adafruit Learning System, https://learn.adafruit.com/modern-replacements-for-dht11-dht22-sensors/what-are-better-alternatives.   
