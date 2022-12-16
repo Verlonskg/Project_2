@@ -61,22 +61,22 @@ We have collected the data of the humidity and temprature from the sensors and w
 
 ## Development
 
-![](poster_1.png)
+![](graph_1.png)
 
 **Fig.4** This graph shows the temprature and the humidity of the room separately, over the course of 48h
 
 
-![](poster_2.png)
+![](graph_2.png)
 
 **Fig.5** This is the min, max, and error bar graph of the temprature and humidity in the span of 48h
 
 
-![](poster_3.png)
+![](graph_3.png)
 
 **Fig.6** The blue graphs are the data that were collected by the indivisual sensors, and the red graphs are the avarage of all the four data of humidity and temprature.
 
 
-![](poster_4.png)
+![](graph_4.png)
 
 **Fig.7** This graphs shows the future predictions of the temprature and the humidity.
 
