@@ -90,6 +90,7 @@ We have collected the data of the humidity and temprature from the sensors and w
 A 7 min video demonstrating the proposed solution with narration
 
 https://drive.google.com/file/d/1NIWqVpKVf28zg9P4LGK1grh-clft5wLb/view?usp=sharing
+
 **Above is the link to our presentation video**
 
 [^1]: Industries, Adafruit. “DHT11 Basic Temperature-Humidity Sensor + Extras.” Adafruit Industries Blog RSS, https://www.adafruit.com/product/386. 
