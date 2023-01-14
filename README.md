@@ -63,8 +63,7 @@ We have collected the data of the humidity and temprature from the sensors and w
 | 17      | Make a user in the server | We made a user in the remote server | 50 min | Dec 12 | C
 | 18      | Get the access token | We got the access token after we made the user to login and post the data | 10 min | Dec 12 | C
 | 19      | Post the data to the server | We posted all of our readings to the remote server but we did it after we collected all the readings | 30 min | Dec 12 | C
-| 20      | Reacerch about the correlation of temperature and violins | We researched more about the affect of temperature on violins and the favourable temperatures and humidity for the violin | 20 min | Dec 13 
-| D
+| 20      | Reacerch about the correlation of temperature and violins | We researched more about the affect of temperature on violins and the favourable temperatures and humidity for the violin | 20 min | Dec 13 | D
 | 21      | Make the presentation | We madew a presentation for the video required as a criteria | 20 min | Dec 13 | D
 | 22      | Record the video | We did some rehearsals and recorded the video and uploaded it on google drive | 20 min | Dec 13 | D
 | 23      | Making the poster | We made the poster with some of the data we collected and our process of the project and up loaded it on GitHub | 40 min | Dec 13 | D
